@@ -1,6 +1,6 @@
 # Integrantes
-* Juan Felipe Serrano
-* Johan Stivnes Ardila Tapiero
+* Fernando Andrés Álvarez López   202014988     fa.avalos@uniandes.edu.co
+* Johan Stivnes Ardila Tapiero    201911400     js.ardilat@uniandes.edu.co
 
 
 
