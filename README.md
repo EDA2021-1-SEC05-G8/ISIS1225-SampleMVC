@@ -1,5 +1,5 @@
 # Integrantes
-* Fernando Andrés Álvarez López   202014988     fa.avalos@uniandes.edu.co
+* Fernando Andrés Álvarez López   202014988     f.alvarez@uniandes.edu.co
 * Johan Stivnes Ardila Tapiero    201911400     js.ardilat@uniandes.edu.co
 
 
